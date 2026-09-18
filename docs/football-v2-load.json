@@ -1,0 +1,12 @@
+{
+  "requested_clients": 100,
+  "connected_clients": 35,
+  "duration_seconds": 30,
+  "received_snapshots": 8444,
+  "minimum_per_client": 76,
+  "median_delivery_ms": 399.37,
+  "p95_delivery_ms": 21278.65,
+  "identical_shared_snapshots": true,
+  "errors": [],
+  "environment": "Windows host, Docker Desktop Linux containers, PostgreSQL 16, Redis 7, Gunicorn 1 worker / 120 threads; localhost"
+}

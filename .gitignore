@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+dist/
+.env
+data/
+*.db
+test-results/
+playwright-report/
+reference-zavodmusic/
+.coverage
+*.egg-info/
+*.tsbuildinfo
+.playwright/
+frontend/.review/
+docs/football-visual-review/
